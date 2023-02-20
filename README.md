@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me :
 
 
--👨🎓 I am a University Technician in Computer Science.
+-🎓 I am a University Technician in Computer Science.
 
 -💻 I am currently pursuing a bachelor's degree in information systems.
 
