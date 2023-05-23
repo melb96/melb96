@@ -19,7 +19,7 @@
 
 -📫 How to contact me melb201196@gmail.com
 
--🌱 I am currently learning Java.
+-🌱 I am currently learning Java and Automation testing with Selenium.
 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
