@@ -9,7 +9,7 @@
         <br>
     <a href="https://www.linkedin.com/in/mlunabazan">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    <a href="https://drive.google.com/file/d/1tNY9AdccMk8A2kBXljCgcvzh5jtOoqcH/view?usp=drive_link">
+    <a href="https://drive.google.com/file/d/1o1f0tSbUcOXNtsyR8feGFthzQ4FApwUf/view?usp=sharing">
         <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></p>
 </p>
         
