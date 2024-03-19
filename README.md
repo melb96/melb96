@@ -4,6 +4,7 @@
 <p align="center">
     <i>
         🎓 I am a University Technician in Computer Science.<br>
+        🎓 I am a Information Systems Analyst.<br>
         💻 I am currently pursuing a bachelor's degree in information systems.<br>
         Currently learning Java Automation.<br>
         <br>
