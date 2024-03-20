@@ -1,5 +1,5 @@
 <h1 align="center">Hi, Everyone! I'm Mateo 👋</h1>
-<h3 align="center"> 📌 Apassionate QA from Argentina </h3>
+<h3 align="center"> 📌 QA from Argentina </h3>
 
 <p align="center">
     <i>
