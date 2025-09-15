@@ -24,6 +24,10 @@
 <p>
 <a href="https://www.linkedin.com/in/mlunabazan/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:melb201196@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="[https://drive.google.com/file/d/XXXXXXXXXXXX/view?usp=sharing](https://drive.google.com/file/d/1PCt2Fax2Akj-lA6KZXA3Oa9vymmRBi-f/view?usp=sharing)">
+  <img src="https://img.shields.io/badge/curriculum-%234285F4.svg?style=plastic&logo=googledrive&logoColor=white" alt="curriculum"/>
+</a>
+
 </p>
 
 ---
