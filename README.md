@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=35&pause=400&center=true&color=F7F7F7&width=350&lines=Hola!+Soy+Mateo+%F0%9F%91%8B;Desarrollador+Java;T%C3%A9cnico+en+Inform%C3%A1tica+;Analista+de+Sistemas" alt="Typing SVG" /></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=33&pause=400&center=true&color=F7F7F7&width=350&lines=Hola!+Soy+Mateo+%F0%9F%91%8B;Desarrollador+Java;T%C3%A9cnico+en+Inform%C3%A1tica+;Analista+de+Sistemas" alt="Typing SVG" /></p>
 
 <img align="right" alt="GIF" height="200px" src="https://user-images.githubusercontent.com/74038190/214375888-0dc62524-fb43-43fd-9479-098b471d1b9c.gif" />
 
@@ -32,10 +32,10 @@
 
 <p align="center">
   <a href="https://github.com/melb96">
-    <img height="110em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=melb96&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=melb96&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/melb96">
-    <img height="110em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=melb96&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=melb96&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
