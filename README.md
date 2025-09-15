@@ -1,8 +1,8 @@
 <h1 align="center">Mateo Luna Bazan</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desarrollador+Java;Tecnico+en+Informatica;Analista+de+Sistemas" alt="Typing SVG" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=30&pause=400&center=true&color=F7F7F7&width=300&lines=Desarrollador+Java;T%C3%A9cnico+en+Inform%C3%A1tica+;Analista+de+Sistemas" alt="Typing SVG" /></p>
+
+### 🙋🏻‍♂️ Sobre mi
 
 - 💼 Actualmente trabajando en [**Tsoft**](www.tsoftglobal.com)
 - 🚀 Enfocado en Backend con Java + Spring Boot  
