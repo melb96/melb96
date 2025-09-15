@@ -28,7 +28,7 @@
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️&nbsp;Estadísticas GitHub
 
 <p align="center">
   <a href="https://github.com/melb96">
