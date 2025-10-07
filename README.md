@@ -15,10 +15,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Springboot](https://img.shields.io/badge/-Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D33833?style=flat-square&logo=jenkins&logoColor=white)
 ![Maven](https://img.shields.io/badge/-Maven-5C2D91?style=flat-square&logo=apachemaven&logoColor=white)
-![Mysql](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
  
 ---
